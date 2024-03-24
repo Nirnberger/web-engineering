@@ -251,6 +251,7 @@ Framing
 }
 
 .framing-form button.buy {
+  background: var(--primary-color);
   margin-top: 0.5em;
   width: 100%;
 }
